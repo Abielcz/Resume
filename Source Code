@@ -1,0 +1,45 @@
+<html>
+<style>
+h1 {
+    font-size: 25px;
+    }
+h2 {
+    font-size: 20px;
+    }
+p {
+    font-size: 15px;
+    }
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="Description" content="Abiel A. Zamora's Resume">
+    <meta name="Keywords" contnet="Coverletter, Abiel Zamora, Junior Software Engineer">
+    <meta name="Author" content="Abiel A. Zamora">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta propterty="og:title" content="Abiel A. Zamora's Resume" />
+    <meta property="og:description" content="Pls Hire Me..."/>
+    <meta property="og:url" content="https://github.com/Abielcz/Resume.git>
+    <meta property="og:image" content="https://github.com/Abielcz/Resume.git/images/PLS.jpg"/>
+    <meta property="og:type" content="website"/>
+
+    <title>Abiel A. Zamora's Resume</title>
+</head>
+
+<body> 
+    <h1>Abiel A. Zamora</h1>
+    <h2>Junior Software Engineer</h2>
+    <hr>
+    <p>Tampa, FL 33615<br>(813)8303485<br>abielczamora@gmail.com</p>
+    <h2>Skills</h2>
+    <p><strong>Languages & Tools:</strong> C • Python • Java (Basic) • SQL • HTML/CSS • PowerShell (Basic) <br> <strong>Concepts: Secure Coding Data</strong> • Cybersecurity • Structures & Algorithms • Object-Oriented • Programming Software Development Lifecycle <br> <Strong>Soft Skills:</strong> Bilingual (English/Spanish) • Communication • Troubleshooting • Agile Collaboration </p>
+    <h2>Education</h2>
+    <p><strong>Southern New Hampshire University, Manchester - BS Computer Science</strong> <br> Graduated: 2024</p>
+    <p><strong>Southern New Hampshire University, Manchester - AS Computer Science</strong> <br> Graduated: 2023</p>
+    <h2>Experience</h2>
+    <p><strong>Ina's Insurance Services - IT & Insurance Customer Service Representative</strong><br>Tampa, FL 33615</p>
+    <p> • Provided in-house technical support for computer systems, networks, and printers, resolving hardware/software issues across a small business environment.<br>• Maintained the company website, enhancing usability, structure, and customer access.<br>• Assisted in deploying new hardware and configuring systems for employees, managing software installations and updates.<br>• Trained team members in basic IT troubleshooting and tools.<br>• Supported daily insurance operations while maintaining accurate data, managing customer accounts, and communicating policy information in both English and Spanish. </p>
+    <h2>Contact Me</h2>
+    <p><strong>Phone:</p><strong>813-830-3485<br><strong>Email:</strong>abielczamora@gmail.com<br><strong>Github:</strong><a>https://github.com/Abielcz</a></p>
+</body>
+</html>
