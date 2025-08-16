@@ -5,6 +5,12 @@ h1 {
 h2 {
   color: #F5276C;
 }
+h1 {
+    font-size: 25px;
+    }
+h2 {
+    font-size: 20px;
+    }
 p {
-  color: #F5B027;
-}
+    font-size: 15px;
+    }
