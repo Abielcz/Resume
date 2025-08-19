@@ -3,22 +3,26 @@
   text-align: center;
   background-color: #22333B;
 }
-#img h1 {
+#img h1{
   color: #EAE0D5;
   font-size: 20px;
 }
-#img h2 {
+#img h2{
   color: #EAE0D5;
   font-size: 16px;
 }
-#img p {
+#img p{
   color: #EAE0D5;
   font-size: 14px;
+}
+#info{
+background-color: EAE0D5;
 }
 body{
   font-family:verdana;
   display:flex;
   flex-direction: row;
+  background-color: EAE0D5;
 }
 @media (max-width: 800px) {
   .flex-container {
