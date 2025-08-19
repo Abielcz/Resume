@@ -1,18 +1,18 @@
 #img{
   flex-shrink: 2;
   text-align: center;
-  background-color: #ED775A;
+  background-color: #22333B;
 }
 #img h1 {
-  color: #C9CDCF;
+  color: #EAE0D5;
   font-size: 20px;
 }
 #img h2 {
-  color: #C9CDCF;
+  color: #EAE0D5;
   font-size: 16px;
 }
 #img p {
-  color: #C9CDCF;
+  color: #EAE0D5;
   font-size: 14px;
 }
 body{
@@ -27,16 +27,16 @@ body{
   }
 }
 img{
-  border: 6px solid #FAD691;
+  border: 6px solid #EAE0D5;
   width:200;
   height:200;
 }
 h1 {
-  color: #ED775A;
+  color: #22333B;
   font-size: 27px;
 }
 h2 {
-  color: #ED775A;
+  color: #22333B;
   font-size: 22px;
 }
 p {
