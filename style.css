@@ -22,7 +22,7 @@ body{
   font-family:verdana;
   display:flex;
   flex-direction: row;
-  background-color: EAE0D5;
+  background-color: #EAE0D5;
 }
 @media (max-width: 800px) {
   .flex-container {
