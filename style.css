@@ -1,18 +1,18 @@
 #img{
   flex-shrink: 2;
   text-align: center;
-  background-color: sienna;
+  background-color: #F54927
 }
-#img  h1 {
-  color: #F54927;
+#img h1 {
+  color: whitesmoke;
   font-size: 20px;
 }
 #img h2 {
-  color: #F54927;
+  color: whitesmoke;
   font-size: 17px;
 }
-#img  p {
-  color: black;
+#img p {
+  color: whitesmoke;
   font-size: 14px;
 }
 body{
