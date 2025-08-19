@@ -23,7 +23,7 @@ body{
   display:flex;
   flex-direction: row;
   background-color: #EAE0D5;
-  gap: 5px;
+  gap: 10px;
 }
 a:link {
   color: #EAE0D5;
