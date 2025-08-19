@@ -5,9 +5,15 @@ body{
   justify-content: space-between;
   flex-wrap: wrap;
 }
+#img{
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background-color: 6px solid sienna;
+}
 img{
   border: 6px solid sienna;
-  max-width: 100%;
+  max-width: auto;
   height: auto;
   width:"200";
   height:"200";
