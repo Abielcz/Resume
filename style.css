@@ -9,6 +9,8 @@ img{
   border: 6px solid sienna;
   max-width: 100%;
   height: auto;
+  width:"200";
+  height:"200";
 }
 .box{
   text-align: left;
