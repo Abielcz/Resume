@@ -6,9 +6,6 @@ body{
   flex-wrap: wrap;
 }
 #img{
-  width: 200px;
-  height: 200px;
-  margin: 10px;
   text-align: center;
   background: 6px solid sienna;
   h1 {
