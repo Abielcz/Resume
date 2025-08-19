@@ -1,9 +1,10 @@
 body{
   display:flex;
   gap: 10px;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
-#img{
+img{
 border: 8px solid sienna;
 }
 .box{
