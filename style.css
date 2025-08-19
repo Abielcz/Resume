@@ -2,7 +2,6 @@
   flex-shrink: 2;
   text-align: center;
   background-color: #ED775A;
-  margin: 0px;
 }
 #img h1 {
   color: #C9CDCF;
@@ -19,13 +18,11 @@
 
 #info{
   background-color: #C9CDCF;
-  margin: 0px;
 }
 
 body{
   font-family:verdana;
   display:flex;
-  gap: 5px;
 }
 img{
   border: 6px solid #FAD691;
