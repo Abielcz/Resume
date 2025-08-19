@@ -2,7 +2,7 @@
   flex-shrink: 2;
   text-align: center;
   background-color: #22333B;
-  box-shadow: 10px 10px 5px yellow;
+  box-shadow: -10px 10px 5px yellow;
   margin: 5px;
 }
 #img h1{
