@@ -25,7 +25,7 @@ body{
   background-color: #EAE0D5;
 }
 @media (max-width: 800px) {
-  .flex-container {
+  .box{
     flex-wrap: wrap;
     flex-direction: column;
   }
@@ -35,15 +35,15 @@ img{
   width:200;
   height:200;
 }
-h1 {
+h1{
   color: #22333B;
   font-size: 27px;
 }
-h2 {
+h2{
   color: #22333B;
   font-size: 22px;
 }
-p {
+p{
   color: black;
   font-size: 17px;
 }
