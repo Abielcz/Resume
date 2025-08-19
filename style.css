@@ -23,6 +23,10 @@ body{
   display:flex;
   flex-direction: row;
   background-color: #EAE0D5;
+  gap: 5px;
+}
+a:link {
+  color: #EAE0D5;
 }
 @media (max-width: 800px) {
   .box{
@@ -31,7 +35,7 @@ body{
   }
 }
 img{
-  border: 6px solid #EAE0D5;
+  border: 4px solid #EAE0D5;
   width:200;
   height:200;
 }
