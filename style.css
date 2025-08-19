@@ -28,6 +28,9 @@ body{
 a:link {
   color: #EAE0D5;
 }
+a:visited {
+  color: #EAE0D5;
+}
 @media (max-width: 800px) {
   #img{
     flex-wrap: wrap;
