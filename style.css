@@ -3,7 +3,7 @@
   text-align: center;
   background-color: #C4CAD0;
   box-shadow: -10px 10px 5px #262626;
-  margin: 5px;
+  padding: 5px;
 }
 #info{
 background-color: #FCF7FF;
@@ -16,15 +16,19 @@ body{
   gap: 10px;
 }
 a:link {
-  color: #FCF7FF;
+  color: #262626;
 }
 a:visited {
-  color: #FCF7FF;
+  color: #262626;
 }
 @media (max-width: 800px) {
   body{
     flex-wrap: wrap;
     flex-direction: column;
+  }
+  #img{
+    width: 75%;
+    height: 75%;
   }
 }
 img{
