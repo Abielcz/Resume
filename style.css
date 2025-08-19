@@ -9,17 +9,25 @@ body{
   width: 200px;
   height: 200px;
   margin: 10px;
+  text-align: center;
   background: 6px solid sienna;
+  h1 {
+  color: #F54927;
+  font-size: 20px;
+}
+h2 {
+  color: #F54927;
+  font-size: 17px;
+}
+p {
+  color: black;
+  font-size: 14px;
+}
 }
 img{
   border: 6px solid sienna;
-  max-width: auto;
-  height: auto;
   width:"200";
   height:"200";
-}
-.box{
-  text-align: left;
 }
 h1 {
   color: #F54927;
