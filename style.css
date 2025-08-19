@@ -15,15 +15,18 @@
   color: #C9CDCF;
   font-size: 14px;
 }
-
 #info{
   background-color: #C9CDCF;
 }
-
 body{
   font-family:verdana;
   display:flex;
+  justify-content: space-around;
+  flex-direction: row;
 }
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
 img{
   border: 6px solid #FAD691;
   width:200;
