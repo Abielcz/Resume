@@ -1,25 +1,25 @@
+#img{
+  text-align: center;
+  background-color: solid sienna;
+  h1 {
+  color: #F54927;
+  font-size: 20px;
+  }
+  h2 {
+  color: #F54927;
+  font-size: 17px;
+}
+  p {
+  color: black;
+  font-size: 5px;
+}
+}
 body{
   font-family:verdana;
   display:flex;
   gap: 10px;
   justify-content: space-between;
   flex-wrap: wrap;
-}
-#img{
-  text-align: center;
-  background: 6px solid sienna;
-  h1 {
-  color: #F54927;
-  font-size: 20px;
-  }
-h2 {
-  color: #F54927;
-  font-size: 17px;
-}
-p {
-  color: black;
-  font-size: 5px;
-}
 }
 img{
   border: 6px solid sienna;
