@@ -29,10 +29,14 @@ a:link {
   color: #EAE0D5;
 }
 @media (max-width: 800px) {
-  .box{
+  #img{
     flex-wrap: wrap;
     flex-direction: column;
   }
+  #info{
+    flex-wrap: wrap;
+    flex-direction: column;
+  }   
 }
 img{
   border: 4px solid #EAE0D5;
