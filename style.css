@@ -2,18 +2,18 @@
   flex-shrink: 2;
   text-align: center;
   background-color: sienna;
-  h1 {
+}
+#img  h1 {
   color: #F54927;
   font-size: 20px;
-  }
-  h2 {
+}
+#img h2 {
   color: #F54927;
   font-size: 17px;
 }
-  p {
+#img  p {
   color: black;
   font-size: 14px;
-}
 }
 body{
   font-family:verdana;
