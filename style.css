@@ -5,10 +5,12 @@ body{
   flex-wrap: wrap;
 }
 img{
-border: 8px solid sienna;
+  border: 6px solid sienna;
+  max-width: 100%;
+  height: auto;
 }
 .box{
-text-align: left;
+  text-align: left;
 }
 h1 {
   color: #F54927;
