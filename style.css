@@ -49,6 +49,7 @@ a:visited {
   padding: 5px;
   margin: 5px;
   max-width: 300px;
+  width: auto;
   overflow: auto;
 }
 #desktop_img img {
