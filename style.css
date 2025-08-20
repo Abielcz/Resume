@@ -79,9 +79,8 @@ a:visited {
     flex-direction: column;
   }
   #grid {
-    display: flex;
-    flex-direction: column;
-  }
+  display:none
+}
 #skills, #edu, #proj, #courses, #exp  {
   text-align: center;
   background-color: #C4CAD0;
