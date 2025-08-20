@@ -24,7 +24,7 @@ a:link {
 a:visited {
   color: #262626;
 }
-desktop_img{
+#desktop_img{
   border: 4px solid #FCF7FF;
   border-radius: 50%;
   width: 200px;
@@ -64,8 +64,10 @@ p1{
     text-align: left;
     width: auto;
     height: 50%;
-#mobile_img img{
+  }
+  #mobile_img img{
   border: 2px solid #FCF7FF;
+  border-radius: 50%;
   width: 75px;
   height: 75px; 
 }
