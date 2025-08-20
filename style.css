@@ -68,6 +68,8 @@ a:visited {
   padding: 5px;
   margin: 5px;
 }
+#skills p, #edu p, #proj p, #courses p, #exp p  {
+  text-align: initial;
 @media (max-width: 800px) {
   #desktop_img {
   display:none
