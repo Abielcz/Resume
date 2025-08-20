@@ -1,6 +1,9 @@
 #mobile_img {
   display:none;
 }
+.space {
+  height: 15px;
+}
 #info {
   background-color: #FCF7FF;
 }
