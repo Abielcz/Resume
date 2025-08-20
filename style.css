@@ -80,5 +80,11 @@ a:visited {
     width: 75px;
     height: 75px; 
   }
+  #mobile_img h1 {
+    font-size: 22px;
+  }
+  #mobile_img h2 {
+    font-size: 17px;
+  }
 }
 
