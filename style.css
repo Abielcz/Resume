@@ -77,12 +77,11 @@ p1{
   border: 2px solid #FCF7FF;
   width:75px;
   height:75px;
-  .header {
-    display: flex;
-    flex-direction: column;
-    background-color: black;/* stack text vertically */
-  }
-
 }
+.header {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  }
 }
 }
