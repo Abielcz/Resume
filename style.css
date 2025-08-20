@@ -67,10 +67,15 @@ a:visited {
     flex-wrap: wrap;
     flex-direction: column;
   }
-  #skills {
-    flex-wrap: wrap;
-    flex-direction: column;
-  }
+#skills, #edu, #proj, #courses, #exp  {
+  text-align: center;
+  background-color: #C4CAD0;
+  border: 3px solid #49525B;
+  box-shadow: -10px 10px 5px #262626;
+  padding: 5px;
+  margin: 5px;
+  width: 100%;
+}
     h1 {
     font-size: 22px;
     text-align: center;
