@@ -1,3 +1,4 @@
+.mobile_image{display:none}
 #img{
   text-align: center;
   background-color: #C4CAD0;
@@ -58,22 +59,6 @@ p1{
     text-align: left;
     width: auto;
     height: 50%;
-}
-#img h1{
-  font-size: 22px;
-  }
-#img h2{
-  font-size: 0px;
-  }
-#img h3{
-  font-size: 17px;
-  }
-#img p{
-  font-size: 0px;
-  }
-#img p1{
-  font-size: 17px;
-  }
 #img img{
   border: 2px solid #FCF7FF;
   width: 75px;
