@@ -79,7 +79,8 @@ p1{
   height:75px;
   .text-box {
     display: flex;
-    flex-direction: column;        /* stack text vertically */
+    flex-direction: column;
+    background-color: black;/* stack text vertically */
   }
 
 }
