@@ -54,6 +54,7 @@ p1{
   }
   #img{
     display:flex;
+    align-items: flex-start;
     text-align: left;
     width: auto;
     height: 50%;
