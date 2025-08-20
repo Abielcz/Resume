@@ -5,12 +5,11 @@
   background-color: #FCF7FF;
 }
 #grid {
-display: grid;
+  display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-auto-rows: 400px;
-  column-gap: 10px;
-  row-gap: 25px;
-  flex-grow: 1;
+  grid-template-rows: repeat(3, 1fr);
+  height: 100%;
+  gap: 10px;
 }
 body {
   display: flex;
