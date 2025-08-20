@@ -1,25 +1,25 @@
-#mobile_img{
+#mobile_img {
   display:none;
 }
-#info{
+#info {
   background-color: #FCF7FF;
 }
-body{
+body {
   display: flex;
   flex-direction: row;
   font-family: verdana;
   background-color: #FCF7FF;
   gap: 10px;
 }
-h1{
+h1 {
   color: #262626;
   font-size: 27px;
 }
-h2{
+h2 {
   color: #262626;
   font-size: 22px;
 }
-p{
+p {
   color: #262626;
   font-size: 17px;
 }
@@ -29,7 +29,7 @@ a:link {
 a:visited {
   color: #262626;
 }
-#desktop_img{
+#desktop_img {
   text-align: center;
   background-color: #C4CAD0;
   box-shadow: -10px 10px 5px #262626;
@@ -37,21 +37,21 @@ a:visited {
   margin: 5px;
   maximum-width: 300px;
 }
-#desktop_img img{
+#desktop_img img {
   border: 4px solid #FCF7FF;
   border-radius: 50%;
   width: 200px;
   height: 200px;
 }
 @media (max-width: 800px) {
-  #desktop_img{
+  #desktop_img {
   display:none
 }
-  body{
+  body {
     flex-wrap: wrap;
     flex-direction: column;
   }
-  #mobile_img{
+  #mobile_img {
     display: flex;
     text-align: left;
     width: auto;
@@ -61,11 +61,16 @@ a:visited {
     padding: 5px;
     margin: 5px;
   }
-  #mobile_img img{
+  #mobile_img img {
   border: 2px solid #FCF7FF;
   border-radius: 50%;
   width: 75px;
   height: 75px; 
+  h1 {
+    text-align: center;
+}
+  h2 {
+    text-align: center;
 }
 }
 
