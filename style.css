@@ -81,8 +81,6 @@ a:visited {
   #grid {
     display: flex;
     flex-direction: column;
-    width: auto;
-    height: auto;
   }
 #skills, #edu, #proj, #courses, #exp  {
   text-align: center;
@@ -104,14 +102,14 @@ a:visited {
   #mobile_img {
     display: flex;
     text-align: left;
-    width: auto;
-    height: 50%;
     background-color: #C4CAD0;
     border: 3px solid #49525B;
     box-shadow: -10px 10px 5px #262626;
     padding: 5px;
     margin: 5px;
     gap: 20px;
+    width: auto;
+    height: auto;
   }
   #mobile_img img {
     border: 2px solid #FCF7FF;
