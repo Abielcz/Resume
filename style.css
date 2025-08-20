@@ -78,10 +78,5 @@ p1{
   width:75px;
   height:75px;
 }
-#header{
-  display: flex;
-  flex-direction: column;
-  background-color: black;
-  }
 }
 }
