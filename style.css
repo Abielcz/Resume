@@ -60,7 +60,7 @@ a:visited {
   item-align: center;
   text-align: initial;
 }
-#skills, #edu, #proj, #courses, #exp  {
+#skills, #edu, #proj, #courses, #exp, #cert  {
   text-align: center;
   background-color: #C4CAD0;
   border: 3px solid #49525B;
@@ -68,7 +68,7 @@ a:visited {
   padding: 5px;
   margin: 5px;
 }
-#skills p, #edu p, #proj p, #courses p, #exp p  {
+#skills p, #edu p, #proj p, #courses p, #exp p, #cert p  {
   text-align: initial;
 }
 @media (max-width: 800px) {
