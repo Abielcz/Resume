@@ -1,4 +1,5 @@
 #img{
+  display:flex;
   flex-shrink: 2;
   text-align: center;
   background-color: #C4CAD0;
