@@ -4,10 +4,6 @@
 #info {
   background-color: #FCF7FF;
 }
-.box { 
-  display: flex;
-  flex-direction: row;
-}
 body {
   display: flex;
   flex-direction: row;
