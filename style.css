@@ -18,27 +18,27 @@ body {
   gap: 10px;
 }
 h1 {
-  color: #262626;
+  color: #E1EDF4;
   font-size: 27px;
 }
 h2 {
-  color: #262626;
+  color: #E1EDF4;
   font-size: 22px;
 }
 h3 {
-  color: #262626;
+  color: #E1EDF4;
   font-size: 17px;
 }
 p {
-  color: #262626;
+  color: #E1EDF4;
   font-size: 17px;
 }
 a:link {
-  color: #262626;
+  color: #E1EDF4;
   font-size: 17px;
 }
 a:visited {
-  color: #262626;
+  color: #E1EDF4;
   font-size: 17px;
 }
 #desktop_img {
