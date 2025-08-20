@@ -1,6 +1,4 @@
 #img{
-  display:flex;
-  flex-shrink: 2;
   text-align: center;
   background-color: #C4CAD0;
   box-shadow: -10px 10px 5px #262626;
@@ -51,25 +49,26 @@ p{
     flex-direction: column;
   }
   #img{
+    display:flex;
     text-align: left;
     width: auto;
     height: 50%;
-  }
-  h1{
+    h1{
   font-size: 22px;
-}
-h2{
+  }
+    h2{
   font-size: 0px;
-}
-h3{
+  }
+    h3{
   font-size: 17px;
-}
-p{
+  }
+    p{
   font-size: 17px;
-}
-img{
+  }
+    img{
 border: 2px solid #FCF7FF;
 width:75px;
 height:75px;
+}
 }
 }
