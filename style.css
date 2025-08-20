@@ -81,6 +81,8 @@ a:visited {
   #grid {
     display: flex;
     flex-direction: column;
+    width: auto;
+    height: auto;
   }
 #skills, #edu, #proj, #courses, #exp  {
   text-align: center;
