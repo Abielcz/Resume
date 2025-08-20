@@ -75,6 +75,7 @@ a:visited {
   display:none
 }
   body {
+    display: flex;
     flex-direction: column;
   }
   #grid {
