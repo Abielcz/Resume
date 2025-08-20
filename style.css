@@ -10,7 +10,6 @@ display: grid;
   grid-auto-rows: 400px;
   gap: 20px;
 }
-}
 body {
   display: flex;
   flex-direction: row;
