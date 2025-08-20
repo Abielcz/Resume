@@ -50,7 +50,7 @@ a:visited {
   item-align: center;
   text-align: initial;
 }
-#skills, #edu, #proj,  {
+#skills, #edu, #proj, #courses, #exp  {
   text-align: center;
   background-color: #C4CAD0;
   border: 3px solid #49525B;
