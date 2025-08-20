@@ -51,6 +51,8 @@ a:visited {
     flex-wrap: wrap;
     flex-direction: column;
   }
+   h2 {
+    text-align: center;
   #mobile_img {
     display: flex;
     text-align: left;
@@ -67,9 +69,6 @@ a:visited {
   width: 75px;
   height: 75px; 
  #mobile_img h1 {
-    text-align: center;
-}
- #mobile_img h2 {
     text-align: center;
 }
 }
