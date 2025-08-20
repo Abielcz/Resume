@@ -52,7 +52,7 @@ a:visited {
   height: auto;
 }
 #desktop_img img {
-  border: 4px solid #657ED4;
+  border: 4px solid #989186;
   border-radius: 50%;
   width: 200px;
   height: 200px;
@@ -113,7 +113,7 @@ a:visited {
     height: auto;
   }
   #mobile_img img {
-    border: 2px solid #657ED4;
+    border: 2px solid #989186;
     border-radius: 50%;
     width: 75px;
     height: 75px; 
