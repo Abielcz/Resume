@@ -1,8 +1,6 @@
 #mobile_img{
   display:none;
 }
-#mobile_img img{
-  display:none;
 }
 #desktop_img{
   text-align: center;
@@ -63,7 +61,7 @@ p{
     padding: 5px;
     margin: 5px;
   }
-  #mobile_img img{
+  #mobile_img m_img{
   border: 2px solid #FCF7FF;
   border-radius: 50%;
   width: 75px;
