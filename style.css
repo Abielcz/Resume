@@ -51,8 +51,6 @@ a:visited {
     flex-wrap: wrap;
     flex-direction: column;
   }
-   h2 {
-    text-align: center;
   #mobile_img {
     display: flex;
     text-align: left;
