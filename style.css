@@ -4,6 +4,13 @@
 #info {
   background-color: #FCF7FF;
 }
+#grid {
+display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: 600px;
+  gap: 10px;
+}
+}
 body {
   display: flex;
   flex-direction: row;
@@ -69,6 +76,10 @@ a:visited {
 }
   body {
     flex-wrap: wrap;
+    flex-direction: column;
+  }
+  #grid {
+    display: flex;
     flex-direction: column;
   }
 #skills, #edu, #proj, #courses, #exp  {
