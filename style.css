@@ -78,7 +78,7 @@ p1{
   width:75px;
   height:75px;
 }
-.header {
+#header{
   display: flex;
   flex-direction: column;
   background-color: black;
