@@ -66,10 +66,10 @@ a:visited {
   border-radius: 50%;
   width: 75px;
   height: 75px; 
-  h1 {
+ #mobile_img h1 {
     text-align: center;
 }
-  h2 {
+ #mobile_img h2 {
     text-align: center;
 }
 }
