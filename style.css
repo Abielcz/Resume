@@ -54,6 +54,9 @@ a:visited {
     flex-wrap: wrap;
     flex-direction: column;
   }
+  h2 {
+    text-align: center;
+  }
   #mobile_img {
     display: flex;
     text-align: left;
@@ -65,21 +68,18 @@ a:visited {
     margin: 5px;
   }
   #mobile_img img {
-  border: 2px solid #FCF7FF;
-  border-radius: 50%;
-  width: 75px;
-  height: 75px; 
+    border: 2px solid #FCF7FF;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px; 
   }
   #mobile_img h1 {
-  text-align: center;
-  font-size: 22px;
+    text-align: center;
+    font-size: 22px;
   }
   #mobile_img h2 {
-  text-align: center;
-  font-size: 17px;
-  }
- #mobile_img h1 {
     text-align: center;
-}
+    font-size: 17px;
+  }
 }
 
