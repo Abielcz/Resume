@@ -39,6 +39,10 @@ h3{
   color: #262626;
   font-size: 22px;
 }
+p{
+  color: #262626;
+  font-size: 17px;
+}
 p1{
   color: #262626;
   font-size: 17px;
@@ -62,6 +66,9 @@ p1{
   }
 #img h3{
   font-size: 17px;
+  }
+#img p{
+  font-size: 0px;
   }
 #img p1{
   font-size: 17px;
