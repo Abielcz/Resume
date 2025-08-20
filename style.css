@@ -70,7 +70,7 @@ a:visited {
     flex-wrap: wrap;
     flex-direction: column;
   }
-  .box {
+  #skills {
     flex-wrap: wrap;
     flex-direction: column;
   }
