@@ -46,6 +46,7 @@ a:visited {
   height: 200px;
 }
 #desktop_img p {
+  item-align: center;
   text-align: initial;
 }
 @media (max-width: 800px) {
