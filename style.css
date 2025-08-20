@@ -1,3 +1,11 @@
+.info {
+  text-align: center;
+  background-color: #C4CAD0;
+  box-shadow: -10px 10px 5px #262626;
+  padding: 5px;
+  margin: 5px;
+  max-width: 300px;
+}
 #mobile_img {
   display:none;
 }
