@@ -70,6 +70,10 @@ a:visited {
     flex-wrap: wrap;
     flex-direction: column;
   }
+  .box {
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
     h1 {
     font-size: 22px;
     text-align: center;
