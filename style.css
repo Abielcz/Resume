@@ -25,9 +25,11 @@ p {
 }
 a:link {
   color: #262626;
+  font-size: 17px;
 }
 a:visited {
   color: #262626;
+  font-size: 17px;
 }
 #desktop_img {
   text-align: center;
