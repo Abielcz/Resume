@@ -77,6 +77,11 @@ p1{
   border: 2px solid #FCF7FF;
   width:75px;
   height:75px;
+  .text-box {
+    display: flex;
+    flex-direction: column;        /* stack text vertically */
+  }
+
 }
 }
 }
