@@ -77,7 +77,7 @@ p1{
   border: 2px solid #FCF7FF;
   width:75px;
   height:75px;
-  .text-box {
+  .header {
     display: flex;
     flex-direction: column;
     background-color: black;/* stack text vertically */
