@@ -33,10 +33,14 @@ a:visited {
     height: 50%;
   }
 h2{
-  font-size: 0;
+  font-size: 0px;
 }
 p{
-  font-size: 0;
+  font-size: 0px;
+}
+  img{
+  width:50;
+  height:50;
 }
 }
 img{
